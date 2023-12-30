@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on new techonlogy.
 - 🌱 I’m currently learning Python :snake: 
-- 🤝🏽 I’m looking to collaborate on content creators.
+- 🤝🏽 I’m looking to collaborate with content creators.
 - 💬 Ask me about anything?
 - 📫 How to reach me: Mohazxsk@gmail.com 
 - 😄 Pronouns: Male 
