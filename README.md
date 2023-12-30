@@ -1,5 +1,5 @@
 # Hi there!  👋
-# 🧑🏽‍💻 I'm Mohammed Mohammud.  A software eningeer from Melbourne, Australia
+# 🧑🏽‍💻 I'm Mohammed Mohammud.  A Front end developer from Melbourne, Australia
 
 - 🔭 I’m currently working on new techonlogy.
 - 🌱 I’m currently learning Python :snake: 
