@@ -1,13 +1,13 @@
 # Hi there!  👋
-# 🧑🏽‍💻 I'm Mohammed Mohammud.  A Front end developer from Melbourne, Australia
+# 🧑🏽‍💻 I'm Mohammed Mohammud.  A Full-stack developer from Melbourne, Australia
 
 ## 🚀 About me
 - 🔭 I’m currently working on new techonlogy.
-- 🌱 I’m currently learning Python :snake: 
+- 🌱 I’m currently learning Django & PostgreSQL :snake: 
 - 🤝🏽 I’m looking to collaborate with content creators.
 - 💬 Ask me anything?
-- 📫 How to reach me: Mohazxsk@gmail.com 
-- ⚡ Fun fact: I love playing soccer and coding.
+- 📫 How to reach me: Moh4med0224@gmail.com 
+- ⚡ Fun fact: I love coding and playing soccer.
 
 # 🖥️ Technology Skills: 
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,sass,figma)](https://skillicons.dev)
